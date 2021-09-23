@@ -1,0 +1,6 @@
+
+# Array handling
+numpy==1.21.1
+
+# Splitting of dataset row-wise, and normalising
+sklearn==0.0
